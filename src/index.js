@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import BaiTapThucHanhLayout from './components/BaiTapThucHanhLayout/BaiTapThucHanhLayout';
-
+import ShoesStore from './components/ShoesStore/ShoesStore';
 
 
 
@@ -18,6 +17,6 @@ Component:
 
 
 root.render(<div>
-   <BaiTapThucHanhLayout/>
+   <ShoesStore/>
 </div>);
 
